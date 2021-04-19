@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, my name is Rayane. But you can also call me Ray.
 
 
-  HTML, CSS and JavaScript enthusiastic. Coffee lover. 
+  HTML, CSS and JavaScript enthusiastic. Coffee lover. <img src="https://prdm0.rbind.io/images/coffe_01.gif" width="30px">
   
   No momento estou me graduando no curso de Análises e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Praia Grande. Tenho procurado estudar as bases de Algoritmos, Estrutura de Dados, HTML, CSS e JavaScript, a fim de conseguir uma primeira oportunidade na área de tecnologia.
 
