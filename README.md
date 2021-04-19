@@ -6,11 +6,9 @@
 
 Ah, eu também corro meias maratonas. Se você procura um profissional com foco em planejamento, altamente resiliente e adaptável, te garanto que quem já correu 21km sai na frente! :)
 
+  
+  <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanerocha07&hide=html&layout=compact&theme=onedark" />  
 
-
-
-
-<center><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanerocha07&hide=html&layout=compact&theme=onedark" />  
   
 
 ![Rayane's github stats](https://github-readme-stats.vercel.app/api?username=rayanerocha07&show_icons=true&theme=onedark)
