@@ -3,9 +3,9 @@
 
   HTML, CSS and JavaScript enthusiastic. Coffee lover. <img src="https://media.giphy.com/media/RLDpFIGmWWWmAwva8G/giphy.gif" width="50px">
   
-  No momento estou me graduando no curso de Análises e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Praia Grande. Tenho procurado estudar as bases de Algoritmos, Estrutura de Dados, HTML, CSS e JavaScript, com foco em desenvolvimento front-end.
+No momento estou me graduando no curso de Análises e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Praia Grande. Tenho procurado estudar as bases de Algoritmos, Estrutura de Dados, HTML, CSS e JavaScript, com foco em desenvolvimento front-end. Também me interesso bastante por metodologias ágeis (principalmente Scrum!) e tenho procurado desenvolver minhas habilidades nessas áreas.
 
-Ah, eu também corro meias maratonas. Se você procura um profissional com foco em planejamento, altamente resiliente e adaptável, te garanto que quem já correu 21km sai na frente! :)
+Ah, eu também corro meias maratonas. Pra correr 21km é preciso: foco em planejamento, resiliência e adaptabilidade, o que também são consideradas características de um profissional fora de série! :)
 
   
   <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanerocha07&hide=html&layout=compact&theme=onedark" />  
