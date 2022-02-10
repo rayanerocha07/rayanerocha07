@@ -8,8 +8,8 @@ Graduanda no curso de Análises e Desenvolvimento de Sistemas pela Faculdade de 
 Ah, eu também corro meias maratonas. Pra correr 21km é preciso: foco em planejamento, resiliência e adaptabilidade, o que também são consideradas características de um profissional fora de série! :)
 
   
-  <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanerocha07&hide=html&layout=compact&theme=onedark" />  
+  <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanerocha07&hide=html&layout=compact&theme=dracula" />  
 
   
 
-![Rayane's github stats](https://github-readme-stats.vercel.app/api?username=rayanerocha07&show_icons=true&theme=onedark)
+![Rayane's github stats](https://github-readme-stats.vercel.app/api?username=rayanerocha07&count_private=true&theme=dracula)
