@@ -14,4 +14,4 @@ Ah, eu também corro meias maratonas. Pra correr 21km é preciso: foco em planej
 
 ![Rayane's github stats](https://github-readme-stats.vercel.app/api?username=rayanerocha07&count_private=true&theme=dracula)
 
-![snake gif](https://github.com/rayanerocha07/rayanerocha07/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rayanerocha07/rayanerocha07/blob/output/github-contribution-grid-snake.svg)
