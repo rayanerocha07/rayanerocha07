@@ -1,5 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, my name is Rayane. But you can also call me Ray.
-
+### Hi, I'm Rayane! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
   HTML, CSS and JavaScript enthusiastic. Coffee lover. <img src="https://media.giphy.com/media/RLDpFIGmWWWmAwva8G/giphy.gif" width="50px">
   
