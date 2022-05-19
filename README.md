@@ -1,4 +1,5 @@
-### Hi, I'm Rayane! <img src="https://media.giphy.com/media/RLDpFIGmWWWmAwva8G/giphy.gif" width="50px">
+### Hi, I'm Rayane! :woman_technologist:
+
   
 Systems analysis and development student at FATEC and software developer at Agendor.
   
