@@ -1,6 +1,6 @@
 ### Hi, I'm Rayane! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/> :woman_technologist:
   
-Full-Stack Developer at Agendor. Ruby & Ruby on Rails, JavaScript & React and continuously learning.
+Full Stack Developer at Agendor. Ruby & Ruby on Rails, JavaScript & React and continuously learning.
   
   <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanerocha07&hide=html&layout=compact&theme=dracula" />  
 
