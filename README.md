@@ -2,11 +2,10 @@
   
 Full Stack Developer at Agendor. Ruby & Ruby on Rails, JavaScript & React and continuously learning.
   
-  <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanerocha07&hide=html&layout=compact&theme=dracula" />  
-
-  
+  <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanerocha07&hide=html&layout=compact&theme=dracula" />   
 
 ![Rayane's github stats](https://github-readme-stats.vercel.app/api?username=rayanerocha07&count_private=true&theme=dracula)
+<br /><br />*NOTE: **Most Used Languages does not indicate my skill level**, it's just a GitHub metric of which languages I have the most code on GitHub, automatically generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
